@@ -1,18 +1,18 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "id": 122,
+    "name": "Shin Never Clear",
+    "author": "Macadoma",
+    "creators": ["Macch"],
+    "verifier": "Macch",
+    "verification": "https://youtu.be/aA09SXye2xU?si=j0U1GGHLfZVTzZdt",
+    "percentToQualify": 100,
+    "password": "Free to copy",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Macch",
+            "link": "https://youtu.be/aA09SXye2xU?si=j0U1GGHLfZVTzZdt",
             "percent": 100,
-            "hz": 360
+            "hz": 60
         }
     ]
 }
